@@ -1,0 +1,248 @@
+# Translation of Themes - Yoga Meditation in Russian
+# This file is distributed under the same license as the Themes - Yoga Meditation package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-09-29 06:53:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Yoga Meditation\n"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Yoga Meditation"
+msgstr "Yoga Meditation"
+
+#: functions.php:320
+msgid "On"
+msgstr "Вкл"
+
+#: functions.php:321
+msgid "Off"
+msgstr "Откл"
+
+#: functions.php:250
+msgid "Slider Content Alignment"
+msgstr "Выравнивание содержимого слайдера"
+
+#: functions.php:318
+msgid "Check to show About settings"
+msgstr "Отметьте, чтобы показать настройки О нас"
+
+#: functions.php:110
+msgid "Sidebar 3"
+msgstr "Область виджетов 3"
+
+#: functions.php:482
+msgid "https://wordpress.org/support/theme/yoga-meditation"
+msgstr "https://wordpress.org/support/theme/yoga-meditation"
+
+#: functions.php:485
+msgid "https://wordpress.org/support/theme/yoga-meditation/reviews/#new-post"
+msgstr "https://wordpress.org/support/theme/yoga-meditation/reviews/#new-post"
+
+#: functions.php:500
+msgid "Premium Meditation Theme"
+msgstr "Тема Premium Meditation"
+
+#. translators: %s: post title
+#: comments.php:22
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Один комментарий к &ldquo;%s&rdquo;"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:27
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий для &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария для &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев для &ldquo;%2$s&rdquo;"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#: functions.php:46
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: functions.php:90
+msgid "Sidebar"
+msgstr "Область виджетов"
+
+#: functions.php:92 functions.php:112
+msgid "Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr "Добавьте сюда виджеты для их помещения в область виджетов в записях блога и страницах архива."
+
+#: functions.php:100
+msgid "Page Sidebar"
+msgstr "Область виджетов страницы"
+
+#: functions.php:102
+msgid "Add widgets here to appear in your pages and posts"
+msgstr "Добавьте сюда виджеты для их помещения на страницы и записи"
+
+#: functions.php:120
+msgid "Footer 1"
+msgstr "Подвал 1"
+
+#: functions.php:130
+msgid "Footer 2"
+msgstr "Подвал 2"
+
+#: functions.php:140
+msgid "Footer 3"
+msgstr "Подвал 3"
+
+#: functions.php:150
+msgid "Footer 4"
+msgstr "Подвал 4"
+
+#: functions.php:449
+msgid "Responsive Design"
+msgstr "Адаптивный дизайн"
+
+#: functions.php:453
+msgid "Section Reordering"
+msgstr "Переупорядочивание разделов"
+
+#: functions.php:454
+msgid "Contact Page Template"
+msgstr "Шаблон страницы контактов"
+
+#: functions.php:455
+msgid "Multiple Blog Layouts"
+msgstr "Несколько макетов блога"
+
+#: functions.php:456
+msgid "Unlimited Color Options"
+msgstr "Неограниченная цветовая палитра"
+
+#: functions.php:457
+msgid "Designed with HTML5 and CSS3"
+msgstr "Разработано с использованием HTML5 и CSS3"
+
+#: functions.php:458
+msgid "Customizable Design & Code"
+msgstr "Настраиваемый дизайн и код"
+
+#: functions.php:459
+msgid "Cross Browser Support"
+msgstr "Поддержка кросс-браузерных технологий"
+
+#: functions.php:460
+msgid "Detailed Documentation Included"
+msgstr "Подробная документация в комплекте"
+
+#: functions.php:461
+msgid "Stylish Custom Widgets"
+msgstr "Стильные пользовательские виджеты"
+
+#: functions.php:462
+msgid "Patterns Background"
+msgstr "Паттерны фона"
+
+#: functions.php:463
+msgid "WPML Compatible (Translation Ready)"
+msgstr "Совместим с WPML (готов к переводу)"
+
+#: functions.php:464
+msgid "Woo-commerce Compatible"
+msgstr "Совместимость с WooCommerce"
+
+#: functions.php:465
+msgid "Full Support"
+msgstr "Полная поддержка"
+
+#: functions.php:466
+msgid "10+ Sections"
+msgstr "Более 10-и разделов"
+
+#: functions.php:467
+msgid "Live Customizer"
+msgstr "Визуальная настройка темы"
+
+#: functions.php:468
+msgid "AMP Ready"
+msgstr "Готов к AMP"
+
+#: functions.php:470
+msgid "SEO Friendly"
+msgstr "Дружелюбный к SEO"
+
+#: functions.php:471
+msgid "Supper Fast"
+msgstr "Supper Fast"
+
+#. Template Name of the theme
+msgid "Custom Home Page"
+msgstr "Пользовательская главная страница"
+
+#: functions.php:330
+msgid "Select"
+msgstr "Выбрать"
+
+#: functions.php:341
+msgid "Select post"
+msgstr "Выбрать запись"
+
+#: header.php:26
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: header.php:136
+msgid "Menu"
+msgstr "Меню"
+
+#: functions.php:213 functions.php:441 functions.php:475
+msgid "UPGRADE YOGA PREMIUM"
+msgstr "ОБНОВИТЬ ДО YOGA PREMIUM"
+
+#: functions.php:221
+msgid "YOGA MEDITATION PREMIUM"
+msgstr "YOGA MEDITATION PREMIUM"
+
+#: functions.php:233
+msgid "Add Email Address"
+msgstr "Добавить email-адрес"
+
+#: functions.php:286 functions.php:296
+msgid "About Settings"
+msgstr "Настройки О нас"
+
+#: functions.php:447
+msgid "Yoga Meditation PREMIUM - Features"
+msgstr "Yoga Meditation PREMIUM - Функции"
+
+#: functions.php:450
+msgid "Boxed or fullwidth layout"
+msgstr "Макет Блок или Во всю ширину"
+
+#: functions.php:451
+msgid "Shortcode Support"
+msgstr "Поддержка шорткода"
+
+#: functions.php:452
+msgid "Demo Importer"
+msgstr "Импортер демонстраций"
+
+#: functions.php:122 functions.php:132 functions.php:142 functions.php:152
+msgid "Add widgets here to appear in your footer."
+msgstr "Добавьте сюда виджеты для отображения в подвале."
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "pewilliams"
+msgstr "pewilliams"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://www.ovationthemes.com/"
+msgstr "https://www.ovationthemes.com/"
