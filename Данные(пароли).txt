@@ -1,0 +1,5 @@
+Фигма: черно-белая https://www.figma.com/design/PXrBpb5KRPCoY6orLwdCRA/Untitled?node-id=0-1&node-type=canvas&t=uruAmh2IBjytqWO9-0
+цвет https://www.figma.com/design/PXrBpb5KRPCoY6orLwdCRA/Untitled?node-id=6-30&node-type=canvas&t=uruAmh2IBjytqWO9-0
+Пароль на localhost: u8yYwUZ&x^tI$@#gUS
+Логин: Bobr
+БД: http://localhost/phpmyadmin/index.php?route=/database/structure&db=bobr
